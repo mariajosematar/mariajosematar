@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-
 # Hi there, I'm María José - aka [K1N][youtube] 👋 
 
 ## I'm a Developer, Student and Musician!!
