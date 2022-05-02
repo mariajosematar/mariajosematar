@@ -8,9 +8,9 @@
 - 🥅 2022 Goals: Learn more about Node.js 
 - ⚡ Fun fact: I love to draw and play guitar / drums 🤣
 
-
-### <summary>:zap: Languages and Tools: </summary>
 <details>
+### <summary>:zap: Languages and Tools: </summary>
+
 1. [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 2. [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 3. [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
