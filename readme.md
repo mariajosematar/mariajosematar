@@ -3,7 +3,7 @@
 ## I'm a Developer, Student and Musician!!
 
 
-- 🌱 I’m currently learning about Artificial Intelligence and Sustainable Energy
+- 🌱 I’m currently learning about Artificial Intelligence and Sustainable Energy :sparkles:
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Learn more about Node.js 
 - ⚡ Fun fact: I love to draw and play guitar / drums 🤣
