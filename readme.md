@@ -8,20 +8,6 @@
 - 🥅 2022 Goals: Learn more about Node.js 
 - ⚡ Fun fact: I love to draw and play guitar / drums 🤣
 
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mariajosematar)
-[![website](./img/linkedin-dark.svg)](https://https://linkedin.com/in/mariajosematar)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/watch?v=4NI-zV7mPp4&ab_channel=K1N)
-[![website](./img/youtube-dark.svg)](https://youtube.com/watch?v=4NI-zV7mPp4&ab_channel=K1N)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/k1n75557179)
-[![website](./img/twitter-dark.svg)](https://twitter.com/k1n75557179)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/k1n____)
-[![website](./img/instagram-dark.svg)](https://instagram.com/k1n____)
 
 ### Languages and Tools:
 
@@ -41,13 +27,3 @@
 
 <br />
 <br />
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/k1n75557179
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/k1n____
-[linkedin]: www.linkedin.com/in/mariajosematar
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
