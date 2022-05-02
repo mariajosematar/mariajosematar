@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums 🤣
 
 
-### Languages and Tools:
+### <summary>:zap: Languages and Tools: </summary>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
@@ -25,17 +25,9 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
 1. 🗣 Commented on [#39] in GSTV
 2. 🎉 Merged PR [#39] in GSTV
 3. ❌ Closed PR [#2] in GSTV
 
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
