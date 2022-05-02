@@ -1,4 +1,4 @@
-# Hi there, I'm María José - [youtube] 👋 
+# Hi there, I'm María José 👋 
 
 ## I'm a Developer, Student and Musician!!
 
