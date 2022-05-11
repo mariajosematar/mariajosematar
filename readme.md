@@ -26,9 +26,9 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-1. 🗣 Commented on [#39] in GSTV
-2. 🎉 Merged PR [#39] in GSTV
-3. ❌ Closed PR [#2] in GSTV
+1. 🗣 Commented on [#5] in CBD
+2. 🎉 Merged PR [#12] in CBD
+3. ❌ Closed PR [#1] in CBD
 
 
 </details>
