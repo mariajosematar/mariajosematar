@@ -1,4 +1,4 @@
-# Hi there, I'm María José 👋 
+# Hi there, I'm Majo 👋 
 
 ## I'm a Developer, Student and Musician!!
 
