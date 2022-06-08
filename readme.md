@@ -1,6 +1,6 @@
 # Hi there, I'm Majo 👋 
 
-## I'm a BackEnd Developer, student and musician !!!
+## I'm a Software developer, student and musician !!!
 
 
 - 🌱 I’m currently learning about Node.js and Sustainable Energy :sparkles:
