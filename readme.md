@@ -1,4 +1,4 @@
-# Hi there, I'm Majo 👋 
+# Hi there, I'm Maji 👋 
 
 ## I'm a Software developer, student and musician !!!
 
