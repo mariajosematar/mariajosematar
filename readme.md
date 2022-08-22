@@ -2,7 +2,6 @@
 
 ## I'm a Software developer, student and musician !!!
 
-
 - 🌱 I’m currently learning about Node.js and Sustainable Energy :sparkles:
 - :hugs:	 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Learn more about Blockchain
