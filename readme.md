@@ -2,6 +2,6 @@
 
 ## I'm a software developer 👋
 
-- 🌱 I'm currently learning artificial intelligence :sparkles:
+- 🌱 I'm studying engineering artificial in intelligence :sparkles:
 - :hugs: I'm looking to collaborate with other developers
-- 🥅 Goals 2023: Learn more about Artificial Intelligence.
+- 🥅 Goals 2023: Learn more about Machine Learning and Blockchain.
