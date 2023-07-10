@@ -1,15 +1,6 @@
 # Hello, welcome to my profile!👋
 
 ## About Me
-I am María a dedicated engineering student specializing in artificial intelligence with a strong passion for software development. Currently working as a software engineer, I possess extensive hands-on experience of three years in this dynamic field. 
-I actively seek to collaborate with fellow developers to foster growth and contribute to cutting-edge projects.
-
-I thrive in collaborative environments and possess exceptional adaptability, enabling me to excel in both remote and hybrid work settings. 
-Proficient in agile Scrum methodologies, I leverage effective teamwork and streamlined project management practices to drive successful outcomes.
-
-One of the aspects of my work that brings me immense satisfaction is tackling intricate real-time programming challenges. 
-I find great joy in overcoming these obstacles and delivering high-quality solutions that surpass expectations. 
-I am enthusiastic about leveraging my diverse skill set and expertise to make substantial contributions to new and exciting ventures.
 
 ## 🥅 Goals for 2023 
 As I look ahead to 2023, I have set ambitious goals for my professional growth, including:
