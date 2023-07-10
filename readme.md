@@ -1,7 +1,4 @@
 # Hello, welcome to my profile!👋
-
-## About Me
-
 ## 🥅 Goals for 2023 
 As I look ahead to 2023, I have set ambitious goals for my professional growth, including:
 
@@ -22,7 +19,7 @@ Battleship - Implemented using Python: Crafted a sophisticated Battleship game, 
 Rest of the API - Leveraged technologies such as Node.js, Express.js, MySQL, and MongoDB to design and develop a comprehensive API solution for seamless communication between various software components.
 Dual-Pay - Addressed the need for a faster and more intuitive currency conversion process for Argentine bank accounts. Developed a web-based application utilizing JavaScript, PHP, HTML, and CSS to streamline the conversion workflow.
 
-## :hugs: Technical Proficiencies:
+## Technical Proficiencies:
 
 Programming Languages: Python, JavaScript, TypeScript
 Frameworks and Libraries: Node.js, Django, Express.js, React.js, Flask, Expres.js, TensorFlow.
