@@ -1,10 +1,4 @@
 # Hello, welcome to my profile!👋
-## 🥅 Goals for 2023 
-As I look ahead to 2023, I have set ambitious goals for my professional growth, including:
-
-I am developing my knowledge and expertise in Machine Learning and AI through continuous learning and practical application.
-Hiring in projects that push the boundaries of invention, allows me to go my skills to the forefront and make a meaningful impact.
-
 ## 🌱 Noteworthy Projects:
 
 Some of the remarkable projects I have recently undertaken:
