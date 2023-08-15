@@ -1,7 +1,6 @@
-# Hello, welcome to my profile!👋
-## 🌱 Noteworthy Projects:
+# Hello, welcome to my profile!👋 🌱
 
-Some of the remarkable projects I have recently undertaken:
+## Some of the remarkable projects I have recently undertaken:
 
 SmartEat - Implemented using Python: Developed an intelligent food management system that incorporates advanced algorithms to assist households and businesses in efficiently tracking food inventory, managing expiration dates, and analyzing consumption patterns.
 
